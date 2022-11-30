@@ -3,7 +3,7 @@
 ## Frontend
 
 - [Intro JS](https://introjs.com) - UI Walkthrough library
-- [Mirage JS](https://miragejs.com/) = API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
+- [Mirage JS](https://miragejs.com/) - API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services.
 
 ## Utilities
 
