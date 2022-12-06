@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: '*.md'
+  checksum: f52453fe2100331bdda36804f745367c393d1d2544cb943e4b2cfff57c444359
+version: "1.0"
