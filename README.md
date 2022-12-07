@@ -7,5 +7,5 @@
 
 ## Utilities
 
-- [Automated Mac Dev Setup](https://github.com/citypaul/mac-dev-machine-setup) - This repo will automatically setup a new mac
+- [Automated Mac Dev Setup](https://github.com/citypaul/mac-dev-machine-setup) - This repo will automatically set up a new mac
 - [Pre-commit hook to prevent secrets commit](https://github.com/thoughtworks/talisman)
